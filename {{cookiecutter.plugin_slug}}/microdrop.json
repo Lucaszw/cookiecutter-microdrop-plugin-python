@@ -1,0 +1,7 @@
+{
+  "name": "{{cookiecutter.plugin_slug}}",
+  "version": "{{cookiecutter.version}}",
+  "scripts": {
+    "start": "python {{cookiecutter.plugin_slug}}.py"
+  }
+}
