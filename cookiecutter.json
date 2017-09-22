@@ -1,0 +1,5 @@
+{
+	"plugin_name": "State Monitor Plugin",
+	"plugin_slug": "{{ cookiecutter.plugin_name.lower().replace(' ', '_') }}",
+	"project_short_description": "Monitor state of microdrop."
+}
